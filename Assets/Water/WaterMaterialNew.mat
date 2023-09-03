@@ -43,6 +43,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 5af150238563e47a2807c289e029e539, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _FoamSubGraph_0931d6e4af6344c9b836f27ff5e96741_MainTexture_806873349_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 5af150238563e47a2807c289e029e539, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _FoamTexture:
         m_Texture: {fileID: 2800000, guid: 4607143f1a8e3487fa2c113025470b25, type: 3}
         m_Scale: {x: 1, y: 1}

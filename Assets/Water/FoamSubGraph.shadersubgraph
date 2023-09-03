@@ -1261,7 +1261,7 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -523.0,
-            "y": 512.5,
+            "y": 528.5,
             "width": 135.99996948242188,
             "height": 34.0
         }
@@ -1641,7 +1641,8 @@
     },
     "m_TextureType": 0,
     "m_NormalMapSpace": 0,
-    "m_EnableGlobalMipBias": true
+    "m_EnableGlobalMipBias": true,
+    "m_MipSamplingMode": 0
 }
 
 {
@@ -2779,10 +2780,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -514.5000610351563,
-            "y": 546.5,
-            "width": 127.50003051757813,
-            "height": 34.0
+            "x": -514.5,
+            "y": 562.5,
+            "width": 127.49996948242188,
+            "height": 33.99993896484375
         }
     },
     "m_Slots": [
