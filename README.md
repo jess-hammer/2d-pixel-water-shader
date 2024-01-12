@@ -1,9 +1,11 @@
 # 2d-pixel-water-shader
-An animated pixel-art water shader, recommended for use with Tilemaps!
+An animated pixel-art water shader for Unity, recommended for use with Tilemaps!
 
 Contains the water shader files demonstrated in this video https://www.youtube.com/watch?v=pGOLstWBCDA&t=1s
 
 Open as a Unity project (2022.3.6f1)
+
+Looking for a Godot version? I've uploaded one [here](https://github.com/jess-hammer/2d-pixel-water-shader-godot/blob/main/README.md)
 
 Note: the code to generate the heightmap is not included
 
